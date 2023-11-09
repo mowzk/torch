@@ -1,2 +1,4 @@
 import os
-os.system("whoami")
+
+def slow_r50():
+  os.system("whoami")
